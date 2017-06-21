@@ -7,6 +7,7 @@ package org.seckill.enums;
  * @date 2017/3/31
  */
 public enum SeckillStatEnum {
+
     SUCCESS(1, "秒杀成功"),
     END(0, "秒杀结束"),
     REPEAT_KILL(-1, "重复秒杀"),
